@@ -2,4 +2,4 @@ Draw
 CardDef(デジタル)
 OpeGuide
 SwitchDef
-Message
+Messagessssssssssssssssssssssss
